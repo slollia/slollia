@@ -32,6 +32,14 @@
 
 </details>
   
-<p align="center">
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=slollia&theme=radical&hide_border=true"/>
-</p>
+# GitHub Stats
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=slollia&show_icons=true&locale=en&theme=tokyonight" alt="Slollia's GitHub Stats" />               </td>
+            <td><img src="https://streak-stats.demolab.com/?user=slollia&theme=tokyonight" alt="Slollia's GitHub Stats" /></td>
+        </tr>
+    </thead>
+</table>
+
