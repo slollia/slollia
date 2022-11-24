@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Sholikhatul Amalia
-<img align="right" alt="Coding" widht="50" src="https://www.lambdatest.com/resources/images/news24.gif">
 ## About Me
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning SQA, UI & UX Design
