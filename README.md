@@ -31,4 +31,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-217346?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 </details>
-
+  
+<p align="center">
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=slollia&theme=radical&hide_border=true"/>
+</p>
