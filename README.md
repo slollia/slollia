@@ -29,7 +29,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Google Colaboratory](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![OpenCV](https://img.shields.io/badge/OpenCV-217346?style=for-the-badge&logo=OpenCV&logoColor=white)
-![etc](https://img.shields.io/badge/etc-D00000?style=for-the-badge)
+![etc](https://img.shields.io/badge/.and_more.-D00000?style=for-the-badge)
   
 </details>
   
