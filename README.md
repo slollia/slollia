@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Sholikhatul Amalia
 ## About Me
 - 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning SQA, UI & UX Design
+- 🌱 I’m currently learning SQA, UI & UX Design, Front-end Dev
 <p> <a href="https://github.com/slollia/Sign-Language-Translator-System">Here</a> is a showcase of my thesis project. I developed a system for sign language translation as part of this project with my teammates. Convolutional Neural Networks and the Python programming language were used to create this system. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sholikhatul_Amalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sholikhatul-amalia/)](https://www.linkedin.com/in/sholikhatul-amalia/) [![Gmail Badge](https://img.shields.io/badge/-amalia.career03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amalia.career03@gmail.com)](mailto:amalia.career03@gmail.com) [![Issuu Badge](https://img.shields.io/badge/-Portfolio-important?style=flat-square&logo=Issuu&logoColor=white&link=mailto:https://issuu.com/amalia-sholikhatul/docs/port_folio.2022)](https://issuu.com/amalia-sholikhatul/docs/port_folio.2022) 
